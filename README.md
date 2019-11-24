@@ -15,7 +15,7 @@ Steam®, Steam® Logo and all related elements are trademarks of and © Valve Co
 <br />
 
 # :arrow_down: Download
-* <b>[Latest version](https://github.com/kpuc313/Steam-Account-Switcher/releases/tag/1.1 "Latest version")</b>
+* <b>[Latest version](https://github.com/kpuc313/Steam-Account-Switcher/releases/tag/v1.1 "Latest version")</b>
 * <b>[All versions](https://github.com/kpuc313/Steam-Account-Switcher/releases "All versions")</b>
 
 <br />
