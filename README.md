@@ -28,7 +28,7 @@ Steam®, Steam® Logo and all related elements are trademarks of and © Valve Co
 
 # :milky_way: Preview
 * Launched for first time.<br />
-![alt text](https://raw.githubusercontent.com/kpuc313/Steam-Account-Switcher/master/Preview/Preview%2001.png)
+![alt text](https://raw.githubusercontent.com/kpuc313/Steam-Account-Switcher/master/preview/preview_01.png)
 
 * Once you've already used it, it will show your current account.<br />
-![alt text](https://raw.githubusercontent.com/kpuc313/Steam-Account-Switcher/master/Preview/Preview%2002.png)
+![alt text](https://raw.githubusercontent.com/kpuc313/Steam-Account-Switcher/master/preview/preview_02.png)
