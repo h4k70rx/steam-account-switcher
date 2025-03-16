@@ -2,7 +2,7 @@
 rem [ SETTINGS ]==========================================================
 set AppName=Steam Account Switcher
 set AppAuthor=kpuc313
-set AppVersion=v1.1
+set AppVersion=v2025.03.16
 set AppHomePage=https://github.com/kpuc313
 set AppExtName=sas
 rem ======================================================================
@@ -18,9 +18,9 @@ if not exist "Steam.exe" (
 	exit
 )
 
-echo                       ----------------------------
-echo                       %AppName%  %AppVersion%
-echo                       --- Developed by %AppAuthor% ---
+echo                    ----------------------------------
+echo                    %AppName% %AppVersion%
+echo                    ------ Developed by %AppAuthor% ------
 echo.
 echo                      [ %AppHomePage% ]
 echo.

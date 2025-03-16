@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/kpuc313/Steam-Account-Switcher/master/icon.ico" width="35px" height="35px"> Steam Account Switcher v1.1
+# <img src="https://raw.githubusercontent.com/kpuc313/Steam-Account-Switcher/master/icon.ico" width="35px" height="35px"> Steam Account Switcher v2025.03.16
 
 * This application switches easily between your steam accounts.
 
@@ -15,7 +15,7 @@ Steam®, Steam® Logo and all related elements are trademarks of and © Valve Co
 <br />
 
 # :arrow_down: Download
-* <b>[Latest version](https://github.com/kpuc313/Steam-Account-Switcher/releases/tag/v1.1 "Latest version")</b>
+* <b>[Latest version](https://github.com/kpuc313/Steam-Account-Switcher/releases/tag/v2025.03.16 "Latest version")</b>
 * <b>[All versions](https://github.com/kpuc313/Steam-Account-Switcher/releases "All versions")</b>
 
 <br />
